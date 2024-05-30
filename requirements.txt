@@ -1,0 +1,11 @@
+plotly
+pandas
+requests
+matplotlib
+pydantic
+python-dotenv
+scipy
+geopy
+dash
+dash-bootstrap-components
+basemap
