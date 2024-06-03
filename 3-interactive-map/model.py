@@ -53,13 +53,3 @@ class FlightModel(BaseModel):
     speed: Speed
     status: str
     system: System
-
-class AirportModel(BaseModel):
-    GMT: str
-    airportId: int
-    codeIataAirport: str
-    codeIataCity: str
-    codeIcaoAirport: str
-    codeIso2Country: str
-    geonameId: str
-    latitudeAirport
